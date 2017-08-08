@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'super-rentals',  // This will differ depending on what you named YOUR app.
+    modulePrefix: 'super-rentals',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
@@ -18,7 +18,6 @@ module.exports = function(environment) {
       apiKey: "AIzaSyBdc41cailQiigl1MhAmDo0cJMgx8JVGv0",
       authDomain: "super-rentals-6299c.firebaseapp.com",
       databaseURL: "https://super-rentals-6299c.firebaseio.com",
-      projectId: "super-rentals-6299c",
       storageBucket: "super-rentals-6299c.appspot.com"
     },
 
