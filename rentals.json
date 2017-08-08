@@ -16,5 +16,23 @@
     "type": "Apartment",
     "bedrooms": 3,
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+  }],
+
+  "announcements": [{
+    "type": "warning",
+    "location": "Acapulco, Mexico",
+    "message": "Tropical storm brewing; residents advised to evacuate"
+  }, {
+    "type": "info",
+    "location": "Pago Pago, American Samoa",
+    "message": "Smoke signals seen in the distance; distant drumming sounds heard"
+  }, {
+    "type": "warning",
+    "location": "Canberra, Australia",
+    "message": "Town overrun by koala bears"
+  }, {
+    "type": "deal",
+    "location": "San Francisco, CA",
+    "message": "Prime location rentals down to $450/night!"
   }]
 }
